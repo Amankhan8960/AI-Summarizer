@@ -67,6 +67,6 @@ A lightweight web app that uses **Google's Gemini API** to summarize text conten
 - Select the project folder
  
 2.Use the Extension
--Click the extension icon in Chrome toolbar
+- Click the extension icon in Chrome toolbar
 - Select from the dropdown for detailed,brief and bullet type summaries
 - Click on Summarize this page button for result
