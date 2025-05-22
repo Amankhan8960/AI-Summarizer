@@ -44,3 +44,28 @@ A lightweight web app that uses **Google's Gemini API** to summarize text conten
    ```bash
    git clone https://github.com/your-username/ai-summarizer.git
    cd ai-summarizer
+
+
+
+
+
+## 🔑 Setup Gemini API
+
+1. Get your API key from Google AI Studio:  
+   [https://aistudio.google.com/app/apikey](https://aistudio.google.com/app/apikey)
+
+2. In your `popup.js`, replace your link
+
+
+
+## 📦 How to add your project in chrome extension
+
+1.Load the Extension in Chrome
+   -Open chrome://extensions/ in your browser
+   -Enable Developer mode (top right)
+   -Click Load unpacked
+   -Select the project folder
+2.Use the Extension
+   -Click the extension icon in Chrome toolbar
+   -Select from the dropdown for detailed,brief and bullet type summarie
+   -click on Summarize this page button for result
