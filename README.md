@@ -23,9 +23,10 @@ A lightweight web app that uses **Google's Gemini API** to summarize text conten
 ---
 
 ## 📸 Demo
+![image](https://github.com/user-attachments/assets/59f83dbc-0dc3-41fb-b5c1-c0e1c9f35fd9)
 
-> Add a screenshot or a GIF of your app here if available  
-> _Or host it with GitHub Pages / Netlify and link it._
+
+
 
 ---
 
