@@ -61,11 +61,12 @@ A lightweight web app that uses **Google's Gemini API** to summarize text conten
 ## 📦 How to add your project in chrome extension
 
 1.Load the Extension in Chrome
-   -Open chrome://extensions/ in your browser
-   -Enable Developer mode (top right)
-   -Click Load unpacked
-   -Select the project folder
+- Open chrome://extensions/ in your browser
+-  Enable Developer mode (top right)
+- Click Load unpacked
+- Select the project folder
+ 
 2.Use the Extension
-   -Click the extension icon in Chrome toolbar
-   -Select from the dropdown for detailed,brief and bullet type summarie
-   -click on Summarize this page button for result
+-Click the extension icon in Chrome toolbar
+- Select from the dropdown for detailed,brief and bullet type summaries
+- Click on Summarize this page button for result
