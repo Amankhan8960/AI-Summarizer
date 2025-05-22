@@ -6,7 +6,7 @@ A lightweight web app that uses **Google's Gemini API** to summarize text conten
 
 ## 🚀 Features
 
-- ✨ Summarizes long text input into concise summaries
+- ✨ Summarizes long text input into brief summaries, detailed summaries and in bullet points
 - 🔌 Integrates with **Gemini API** for accurate and fast summarization
 - ⚡ Responsive and clean UI using HTML & CSS
 - 🔐 API key protection via secure environment (if applicable)
@@ -23,7 +23,15 @@ A lightweight web app that uses **Google's Gemini API** to summarize text conten
 ---
 
 ## 📸 Demo
+-Brief Summary
 ![image](https://github.com/user-attachments/assets/59f83dbc-0dc3-41fb-b5c1-c0e1c9f35fd9)
+
+-Detailed Summary
+![image](https://github.com/user-attachments/assets/084093e9-7bad-4926-adbe-0c56fced9b95)
+
+-Bullet Points
+![image](https://github.com/user-attachments/assets/8248802f-8d63-464e-b9b0-3c0171d79652)
+
 
 
 
